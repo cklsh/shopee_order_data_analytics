@@ -1,0 +1,21 @@
+data/raw_*.csv
+data/.DS_Store
+
+get-pip.py
+
+.DS_Store
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
