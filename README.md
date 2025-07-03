@@ -1,7 +1,12 @@
-# Shopee sales data science project
+# Shopee Order Analytics
+Cleaned, anonymized, and sampled Shopee order data for reproducible EDA."
 
 ## Overview
-Predictive model: Sales Forecasting; Customer Segementation; Upsell Response Prediction
+This project explores real-world order data and applies core data science techniques including:
+- 📊 Exploratory Data Analysis (EDA)
+- 📈 Sales Forecasting (Prophet)
+- 👥 Customer Segmentation (Clustering)
+- 🛍️ Upsell Response Prediction (Classification)
 
 ## Folder Structure
 - `data/`: Raw data files
