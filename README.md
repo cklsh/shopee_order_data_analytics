@@ -6,8 +6,6 @@ Predictive model: Sales Forecasting; Customer Segementation; Upsell Response Pre
 ## Folder Structure
 - `data/`: Raw data files
 - `notebook/`: Exploratory Data Analysis, modeling, analysis
-- `models/`: trained models
-- `visuals/`: plots & charts
 - `requirements.txt`: package dependencies
 
 ## How to run
@@ -20,7 +18,5 @@ Predictive model: Sales Forecasting; Customer Segementation; Upsell Response Pre
 - Python (pandas, numpy, matplotlib, seaborn)
 - scikit-learn (clustering, modeling)
 - Prophet (time series forecasting)
-- Google Colab
-
 ##
 Ulfah
